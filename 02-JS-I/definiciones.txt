@@ -1,0 +1,6 @@
+variables es un baul donde yo puedo guardar lo que quiera, objetos, numeros, palabras, frases, etc. Asi cuando necesite lo que guarde solo debo abrirlo. 
+Strings son cadenas de texto (frases, palabras) que puedo definir para utilizar mas adelante, etas deben definirse escribiendolas entre parentesis dobles "Strings" o simples 'Strings'
+Funciones son objetos que utilizamos para hacer tareas especificas, las podemos llamar cuando las necesitemos, con estas podemos resolver operaciones entre variables, utilizandolas una y otra vez
+las funciones pueden necesitar argumentos o entradas para ejecutarse, asi que si quiero realizar alguna operacion con un argumento determinado se lo paso a la funcion para que realice la tarea con ese datos especifico
+Return es la salida de la función o lo que devuelve despues de realizar la tarea que le encargamos, la unica manera de sacar un dato de una función es con un return
+if es una condición que se evalua como verdadera o falsa o 0 o 1 
