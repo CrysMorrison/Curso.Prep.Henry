@@ -1,0 +1,18 @@
+definiciones
+
+For es una instrución que se utiliza para realizar acciones repetitivas , la ventaja es que la instrucion se escribe una sola vez y se le dan tres parametros para que funciones.
+1. se define la variable, que funciona como contador.
+2. se pone una condición para que compare y ejecute (siempre que no se cumpla esta condición sigue iterando)
+3. se define una manera de incrementar el contador para poderlo comparar con la condición.
+
+Operador &&
+El operador logico AND devuelve un valor (verdadero o falso) al comparar dos condiciones, la unica manera en la que devuelve verdadero es si las dos condiciones se cumplen de lo contrario devuelve falso.
+
+Operador ||
+El operador OR devuelve un valor (verdadero o falso) al comparar dos condiciones, la unica manera en la cual devuelve falso es si las dos condiciones son falsas, de lo contrario devuleve verdadero.
+
+Operador !
+El operador de NEGACION cambia el valor resultante de una condición (vedadero o falso) si el resultado es verdadero se vuelve falso y si es falso se vuelve verdadero.
+
+
+
