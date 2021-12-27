@@ -1,0 +1,5 @@
+Definiciones
+
+Arrays
+podemos pensar en las matrices como en un baul con muchos compartimentos, donde en cada cajon podemos guardar diferentes tipos de articulos numeros, textos, boleanos, todo lo que necesitemos. Con la ventaja de que podemos abrir el baul cuando lo necesitemos y agregar o eliminar objetos en el momento que lo necesitemos.
+
