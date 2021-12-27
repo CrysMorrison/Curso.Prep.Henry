@@ -1,0 +1,34 @@
+definiciones:
+
+Objetos son baules donde guardo grupos de cosas con una relación en común. 
+Por ejemplo en el baul futbol guardo todo lo relacionado con el deporte un compatimiento para 
+Guayos (clave), clases de guayos nike, adidas, lluvia (valor)
+Uniformes (clave), rojo, verde y blanco (valores) 
+Medias(clave), largas, medianas, cortas (valores)
+Protección(clave), canilleras, rodilleras (valores)
+
+Propiedades 
+Son las caracteristicas que definen el objeto, por ejemplo el baul, tiene un peso, un color, # compartimentos, etc baul.color.
+
+Metodos
+Son funciones que se guardan en un objeto y deben ser asignados como la propiedad de un objeto.
+
+Bucle for ...in
+Es parecido al grupo for, que recorre arrays, a diferencia este recorre claves del objeto y lo recorre hasta que se terminan las claves, de esta forma tambien se puede acceder a los valores asociados a la clave.
+
+Notación de puntos vs notacion de corchetes
+puedo crear objetos por medio de puntos definiendo una variable y asignando propiedades y valores
+
+Var carro new object()
+	carro.fabricante = 'chevrolet'
+	carro.linea= 'aveo'
+	carro.año= 2021
+
+o puedo crearlo por medio de llaves {}
+
+var carro = {
+	fabricante: 'chevrolet',
+	linea: 'aveo',
+	año: 2021
+};
+
