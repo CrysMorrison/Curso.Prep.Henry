@@ -1,0 +1,7 @@
+definiciones
+
+Prototype 
+Es un mecanismo mediante el cual se proporcionan mecanismos de herencia, mediante el cual los objetos se heredan metodos y propiedades previamente definidas.Es como un hijo hereda los resgos fisicos o de personalidad de un padre. Los metodos y propiedades son definidas en una propiedad prototype, que esta en la funcion cosntructora del objeto.
+
+Constructors de clases
+Es el código que se ejecuta cuando se crea un objeto de un tipo determinado. Cuando se instancia un objeto, funciona como constructor todo el código declarado dentro de la función, es decir, todo código dentro de la función que pueda ser ejecutado será ejecutado (no se ejecutarán los métodos de la función, ya que será necesario invocarlos para que se ejecuten).
