@@ -1,0 +1,4 @@
+Definiciones
+
+Callback
+Son funciones que se pasan a otras funciones como argumentos, una ventaja de los callback es que la funcion que recibe decide cuando la quiere ejecutar. Pensemos eo levantarse por las mañanas al trabajo, me tengo que afeitar, bañar, vestir, desayunar y conducir. Cada una de estas tareas se ejecuta por aparte si se desea, cada una podria funcionar como un call back. Si voy al trabajo podria  simplemente balarme, vestirme y conducir, pero no necesariamente desayunar o afeitarme. Si quiero hacer una de estas tareas la llamo dentro de PreparacionParaIrAlTrabajo.
